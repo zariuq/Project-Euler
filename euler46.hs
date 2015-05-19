@@ -1,6 +1,7 @@
 import Sieve
 
 -- Damn, this version of the Sieve is so elegant, and provides you with a list of all primes and nonprimes!
+-- http://creativecommons.org/publicdomain/zero/1.0/
 
 twicesquare = [2*(n^2) | n <- [1..]]
 
